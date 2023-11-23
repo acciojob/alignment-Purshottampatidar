@@ -1,6 +1,11 @@
 /*  your css code here. If applicable */
+#tabl1-1{
+	border:1px solid rgb(0,0,0);
+}
 .middle{
 	border:1px solid rgb(0,0,0);
+	spacing:1px;
+    padding:1px;
 	width:100%;
 	height:200px;
 	margin:auto;
