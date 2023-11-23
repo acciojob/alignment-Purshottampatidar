@@ -1,7 +1,9 @@
 /*  your css code here. If applicable */
 .middle{
+	border:1px solid rgb(0,0,0);
 	width:100%;
-	height:200px
+	height:200px;
+	margin:auto;
 }
 #t12, #t15 ,#t18{
 	text-align:center;
@@ -23,8 +25,11 @@
 	height:30px;
 	background-color:green;
 }
-#td32 img{
-      
+#td32{
+     margin:auto;
+}
+#img-con{
+	display:center
 }
 
 
